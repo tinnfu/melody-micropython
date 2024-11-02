@@ -81,3 +81,6 @@ play(beeper, melody)
 # play(beeper, melody)
 
 beeper.deinit()
+
+# refer https://blog.csdn.net/fatway/article/details/118859714
+# refer https://www.qupu123.com/Mobile-view-id-288352.html
